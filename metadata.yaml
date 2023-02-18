@@ -1,0 +1,31 @@
+_repo: The-golden-whales-of-California-and-other-rhymes-in-the-American-language_69969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: https://en.wikipedia.org/wiki/Vachel_Lindsay
+description: ''
+gutenberg_issued: '2023-02-07'
+identifiers:
+  gutenberg: '69969'
+language: en
+pgterms:marc904: https://archive.org/details/goldenwhalesofca00linduoft/page/18/mode/2up
+pgterms:marc905: 20201028122509lindsay
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: D A Alexander, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Macmillan Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The golden whales of California and other rhymes in the American language
+url: http://www.gutenberg.org/ebooks/69969
